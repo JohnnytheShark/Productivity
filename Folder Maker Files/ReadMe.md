@@ -10,5 +10,10 @@ The below file makes a full alphabetized list of folders inside whatever folder 
 
 [Powershell Script](./FolderMakerScript.ps1)
 
+The below file will go into a users documents folder in Windows and then create an alphabetized list of folders
+
+[Powershell Script Documents](./Documents_FileMakerScript.ps1)
+
+
 
 
